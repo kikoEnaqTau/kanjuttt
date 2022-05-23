@@ -18,19 +18,19 @@ global.autoread = true // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Xontoloyo" //namabot kalian
-global.ownername= "SUMANTO" //nama kalian
+global.botname = "Danzz Botz" //namabot kalian
+global.ownername= "Danz Gantenk" //nama kalian
 global.myweb ="https://awogawog.000webhostapp.com" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCN7UO2AOumTSyYlr6XBf2kg" //bebas asal jan hapus
 global.github = "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" //bebas
 global.email = "obos.dora@gmail.com" //bebas
 global.region = "China" //bebas
-global.ownernomer = "6283171382342" // nomor wa kalian
-global.ownernomerr = "+6283171382342" //nmr wa kalian
+global.ownernomer = "6289523573658" // nomor wa kalian
+global.ownernomerr = "+6289523573658" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6283171382342"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6283171382342", "6289523573658"] //ganti agar fitur owner bisa di gunakan
 global.packname = '0831 7138 2342' //sticker wm ubah
 global.author = 'Save Yahh kakk:)' //sticker wm ganti nama kalian
 global.sessionName = 'session'
